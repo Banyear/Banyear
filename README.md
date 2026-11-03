@@ -31,8 +31,8 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Banyear&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=8B9CFF&icon_color=7F7FD5&text_color=C9D1F0&ring_color=7F7FD5" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Banyear&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=5B4BFF&icon_color=7F7FD5&text_color=333333&ring_color=7F7FD5" alt="Banyear's GitHub stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Banyear&show_icons=false&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=8B9CFF&icon_color=7F7FD5&text_color=C9D1F0&ring_color=7F7FD5" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Banyear&show_icons=false&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=5B4BFF&icon_color=7F7FD5&text_color=333333&ring_color=7F7FD5" alt="Banyear's GitHub stats" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Banyear&layout=compact&hide_border=true&bg_color=00000000&title_color=8B9CFF&text_color=C9D1F0" />
@@ -51,20 +51,7 @@
 
 <br/>
 
-### ✍️ 最近在写
 
-<div align="center">
-
-| 文章 | 日期 |
-| :--- | :--- |
-| 📖 [跟自己对话](https://banyear.github.io/2025/09/18/%E8%B7%9F%E8%87%AA%E5%B7%B1%E5%AF%B9%E8%AF%9D/) | 2025-09-18 |
-| 📖 [Hello World](https://banyear.github.io/2025/02/10/hello-world/) | 2025-02-10 |
-
-**👉 更多内容见博客：[banyear.github.io](https://banyear.github.io)**
-
-</div>
-
-<br/>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Banyear&style=for-the-badge&color=7F7FD5&label=Profile%20Views" alt="profile views" />
